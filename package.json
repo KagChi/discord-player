@@ -78,5 +78,5 @@
     "test": "node index.js"
   },
   "types": "typings/index.d.ts",
-  "version": "0.2.3 (3.0.3)"
+  "version": "0.2.3"
 }
