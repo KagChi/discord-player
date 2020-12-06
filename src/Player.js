@@ -1,5 +1,5 @@
 const ytdl = require('discord-ytdl-core')
-const Discord = require('discord.js-light')
+const Discord = require('discord.js')
 const ytsr = require('youtube-sr')
 const spotify = require('spotify-url-info')
 const soundcloud = require('soundcloud-scraper')
