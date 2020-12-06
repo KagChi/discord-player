@@ -1,6 +1,6 @@
 const { Util: { PlaylistURLRegex: playlistURLRegex } } = require('youtube-sr')
 const soundcloud = require('soundcloud-scraper')
-const Discord = require('discord.js-light')
+const Discord = require('discord.js')
 
 const youtubeVideoRegex = (/(?:youtube\.com\/(?:[^/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?/\s]{11})/)
 const spotifySongRegex = (/https?:\/\/(?:embed\.|open\.)(?:spotify\.com\/)(?:track\/|\?uri=spotify:track:)((\w|-){22})/)
