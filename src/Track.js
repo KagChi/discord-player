@@ -1,4 +1,4 @@
-const Discord = require('discord.js')
+const Discord = require('discord.js-light')
 const Queue = require('./Queue')
 const Player = require('./Player')
 
