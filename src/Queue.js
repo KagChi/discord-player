@@ -1,4 +1,4 @@
-const Discord = require('discord.js-light')
+const Discord = require('discord.js')
 const { EventEmitter } = require('events')
 const Track = require('./Track')
 const Player = require('./Player')
