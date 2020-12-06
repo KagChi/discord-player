@@ -45,7 +45,7 @@
   "description": "Complete framework to facilitate music commands using discord.js v12",
   "devDependencies": {
     "@discordjs/opus": "^0.3.2",
-    "discord.js-light": "3.4.2",
+    "discord.js": "12.5.1",
     "eslint": "^7.1.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.20.2",
@@ -78,5 +78,5 @@
     "test": "node index.js"
   },
   "types": "typings/index.d.ts",
-  "version": "3.0.3"
+  "version": "0.2.3 (3.0.3)"
 }
